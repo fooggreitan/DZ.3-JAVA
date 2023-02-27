@@ -1,6 +1,6 @@
-import java.util.Arrays;
-
 // Реализовать алгоритм сортировки слиянием.
+
+import java.util.Arrays;
 
 public class Task1 {
 
